@@ -11,12 +11,7 @@ Also, they can pay few fees for more in depth feedback and Q&A session with expe
   -MongoDB
   -Firebase
   
-## Authors
- - [Mariam613](https://github.com/Mariam613)
- - [Malkibrahim](https://github.com/Malkibrahim)
- - [Mai Eltayeb](https://github.com/maieltayeb)
- - [NadaYoussef-d](https://github.com/NadaYoussef-d)
- - [AyaRabe3](https://github.com/AyaRabe3)
- - [HalaNazmy97](https://github.com/HalaNazmy97)
+3-project Link: https://takestep.netlify.app/  
+
 
 
