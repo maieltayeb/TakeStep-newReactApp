@@ -1,0 +1,8 @@
+.containerdiv {
+  display: flex;
+   margin-bottom: 20px; 
+   margin: 0 auto;
+   /* margin-left: 50px; */
+   justify-content: center;
+   margin-right: 3.6%;
+}

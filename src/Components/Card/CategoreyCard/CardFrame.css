@@ -1,0 +1,19 @@
+.categories {
+  display: flex;
+  flex-direction: row;
+
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.card {
+  transition: 0.5s ease;
+  cursor: pointer;
+}
+.card:hover {
+  transform: scale(1.2);
+}
+.all-categories {
+  padding-bottom: 40px;
+  text-align: center;
+}

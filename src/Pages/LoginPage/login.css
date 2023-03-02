@@ -1,0 +1,11 @@
+.icon {
+  padding: 12px;
+  /* color: green; */
+  min-width: 50px;
+  text-align: center;
+}
+.input-field {
+  width: 100%;
+  padding: 10px;
+  /* text-align: center;  */
+}

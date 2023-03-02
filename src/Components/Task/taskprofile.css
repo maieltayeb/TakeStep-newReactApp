@@ -1,0 +1,66 @@
+.profile-postContainer {
+  width: 640px;
+  /* height:500px; */
+  background-color: #f8f8f4 !important;
+  /* margin:auto; */
+  color: #707070;
+  z-index: 0;
+  font-family: tahoma;
+}
+.profile-postContainerHeader {
+  color: #707070;
+}
+.profile-postOwnerNameStyle {
+  font-family: tahoma;
+  font-size: 20px;
+  font-weight: bold;
+  color: #707070;
+}
+.applyBtn {
+  background-color: #ebc010;
+  border: 1px solid #ebc010;
+  border-radius: 58px;
+  height: 48px;
+  width: 138px;
+  font-size: 20px;
+  font-family: tahoma;
+}
+.profile-postCommentBody {
+  background-color: #ffffff;
+  width: 640px;
+  /* height: 400px; */
+  z-index: 10;
+  border-radius: 0px 0px 25px 25px;
+  color: #707070;
+}
+.profile-reactToPost {
+  font-size: 20px;
+  font-family: tahoma;
+}
+.profile-commentArea {
+  width: 550px;
+  border: 1px solid #ebc010;
+  border-radius: 50px;
+  outline-offset: 0;
+}
+::placeholder {
+  color: #ebc010;
+  opacity: 1;
+}
+.profile-commentbody {
+  background-color: #f8f8f4;
+  border-radius: 0px 25px 25px 25px;
+  width: 550px;
+  min-height: 100px;
+  max-height: fit-content;
+}
+
+.img {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+}
+
+input:focus {
+  outline: none;
+}

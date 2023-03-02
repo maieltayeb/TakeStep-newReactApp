@@ -1,0 +1,35 @@
+.modaShap {
+  width: 920px;
+}
+.headerModal {
+  font-size: 20px;
+  font-family: tahoma;
+  color: #494848;
+  background-color: #ebc010;
+  width: 720px;
+}
+.bodyModal {
+  width: 720px;
+  background-color: #f2f2f2;
+}
+.cancelModal {
+  /* margin-left:6px !important; */
+  background-color: black;
+  border: 2px solid #ebc010;
+  border-radius: 58px;
+  height: 48px;
+  width: 121px !important;
+  font-size: 20px;
+  font-family: tahoma;
+  color: #ebc010;
+}
+.addModal {
+  /* margin-left:6px !important; */
+  background-color: #494848;
+  border-radius: 58px;
+  height: 48px;
+  width: 121px !important;
+  font-size: 20px;
+  font-family: tahoma;
+  color: #ebc010;
+}

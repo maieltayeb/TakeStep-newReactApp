@@ -1,0 +1,88 @@
+.postContainer {
+  max-width: 700px;
+  min-height: 300px;
+  max-height: fit-content;
+  background-color: #f8f8f4 !important;
+  margin: auto;
+  color: #707070;
+  z-index: 0;
+  font-family: tahoma;
+  margin-top: 30px;
+  border-radius: 0px 0px 25px 25px;
+  display: block;
+}
+.comment-container {
+  display: flex;
+}
+.post-space {
+  height: 10%;
+}
+.postContainerHeader {
+  color: #707070;
+}
+.postOwnerNameStyle {
+  font-family: tahoma;
+  font-size: 15px;
+  /* font-weight: bold; */
+  color: #707070;
+}
+.applyBtn {
+  background-color: #ebc010;
+  border: 1px solid #ebc010;
+  border-radius: 58px;
+  height: 48px !important;
+  width: 138px !important;
+  font-size: 20px;
+  font-family: tahoma;
+}
+.postCommentBody {
+  background-color: #ffffff;
+  max-height: fit-content;
+  /* height: 400px; */
+  z-index: 1;
+  border-radius: 0px 0px 25px 25px;
+  color: #707070;
+  /* margin-top: 50px; */
+  min-height: 200px;
+  /* margin-bottom: 22rem; */
+  /* display: flex;
+  flex-direction: column; */
+}
+.reactToPost {
+  font-size: 20px;
+  font-family: tahoma;
+}
+.commentArea {
+  width: 474px;
+  border: 1px solid #ebc010;
+  border-radius: 50px;
+  outline-offset: 0;
+}
+::placeholder {
+  color: #ebc010;
+  opacity: 1;
+}
+.commentbody {
+  background-color: #f8f8f4;
+  border-radius: 0px 25px 25px 25px;
+  width: 480px;
+  min-height: 50px;
+  max-height: fit-content;
+}
+
+.post-img {
+  width: 45px;
+  height: 45px;
+  border-radius: 15px;
+}
+
+input:focus {
+  outline: none;
+}
+.username-post {
+  display: inline-block;
+}
+.post-ortions {
+  cursor: pointer;
+  color: black;
+}

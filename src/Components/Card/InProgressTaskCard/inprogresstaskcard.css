@@ -1,0 +1,9 @@
+.taskTitle {
+  cursor: pointer;
+  color: unset;
+}
+.taskTitle:hover,
+.taskTitle.active {
+  color: #ebc010;
+  /* font-weight: bold; */
+}

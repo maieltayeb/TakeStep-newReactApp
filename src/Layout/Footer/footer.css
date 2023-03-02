@@ -1,0 +1,9 @@
+.bg {
+  background-image: url("/img/web-design-development.jpeg");
+  background-size: cover;
+}
+.list-group-item {
+  background: none !important;
+  border: none !important;
+  color: white;
+}

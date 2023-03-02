@@ -1,0 +1,37 @@
+.Portflio-container {
+  background-color: #f8f8f4;
+
+  width: 31rem;
+  /* width: 665px; */
+  /* margin: auto; */
+  border: 1px solid #f8f8f4;
+  /* min-height: 150px; */
+}
+.Portflio-items {
+  display: flex;
+  /* justify-content: center; */
+}
+.Portflio-item {
+  margin: 30px;
+}
+
+.Portflio-item-img {
+  /* width: 231px; */
+  height: 10rem;
+  /* margin: 20px; */
+  box-shadow: 5px 10px 7px 3px #f8f8f4;
+}
+.Portflio-item-title {
+  display: flex;
+  justify-content: center;
+}
+.Portflio-title {
+  color: #ebc010;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 20px;
+}
+/*
+
+
+ */

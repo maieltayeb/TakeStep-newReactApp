@@ -1,0 +1,62 @@
+@import url("/node_modules/@fortawesome/fontawesome-free/css/all.min.css");
+.logo {
+  width: 100px;
+  height: 70px;
+}
+
+.userLink {
+  cursor: pointer;
+  color: unset;
+}
+.userLink:hover,
+.userLink.active {
+  color: #ebc010;
+  /* font-weight: bold; */
+}
+
+.navbarStyle {
+  /* max-height: fit-content; */
+  background-color: #f8f8f4;
+}
+.searchInput {
+  width: 400px;
+  height: 41px;
+  border-radius: 58px;
+}
+input:focus {
+  outline: none;
+}
+
+.aboutSignNav {
+  background-color: #ebc010;
+  width: 436px !important;
+  margin: 0px;
+  height: 100px;
+  /* max-height: fit-content; */
+}
+.aboutSignNavLink {
+  padding-left: 3.5rem !important;
+  padding-left: 15px;
+  padding-top: 25px;
+  font-family: tahoma;
+  font-size: 20px !important;
+  color: #494848;
+}
+.navItem {
+  padding-left: 91px !important;
+  padding-top: 35px !important;
+}
+.navBtn {
+  margin-left: 6px;
+  background-color: #0e0d0d;
+  border-radius: 58px;
+  height: 48px;
+  width: 138px !important;
+  font-size: 20px;
+  font-family: tahoma;
+}
+@media only screen and (max-width: 600px) {
+}
+/* body {
+   padding-top: 100px;
+} */

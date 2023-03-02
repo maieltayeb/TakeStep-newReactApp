@@ -1,0 +1,67 @@
+.EducationSection-container {
+  width: 60%;
+  background-color: #f8f8f4;
+  margin-left: 20px;
+  height: auto;
+  
+}
+/*****************top*****************************/
+.EducationSection-container-top {
+  padding: 10px;
+  background-color: #494848;
+  color: #ebc010;
+  text-align: left;
+  display: flex;
+}
+.space {
+  width: 77%;
+}
+.EducationSection-container-top-h6 {
+  margin-right: 10px;
+  margin-left: 4px;
+  width: 25%;
+}
+.EducationSection-container-top-icon {
+  margin-right: 20px;
+}
+/**********************middle**************************************/
+.EducationSection-container-body {
+  background-color: #f8f8f4;
+  height: 70px;
+  padding: 10px;
+  display: flex;
+  height: auto;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  padding-bottom: 30px;
+}
+
+.EducationSection-container-body-img {
+  width: 20%;
+}
+.body-space {
+  width: 37%;
+}
+/* .EducationSection-container-body-info{
+     
+     } */
+.EducationSection-container-body-info-date p {
+  display: inline;
+}
+
+.EducationSection-container-body-icon {
+  display: flex;
+  color: #ebc010;
+}
+.EducationSection-container-body-icon-edit {
+  margin-right: 10px;
+}
+/************************bottom***********************************/
+.post-bottom {
+  padding: 10px;
+  display: flex;
+}
+.post-bottom-camera {
+  margin-left: 20px;
+  margin-right: 10px;
+}

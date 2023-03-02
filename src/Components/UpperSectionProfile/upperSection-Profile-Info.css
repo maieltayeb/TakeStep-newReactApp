@@ -1,0 +1,149 @@
+.upper-container {
+  margin-top: 100px;
+}
+.first-profile-info {
+  height: 300px;
+  width: 690px;
+  background-color: #f8f8f4;
+  box-shadow: 4px 4px 8px rgb(208, 202, 202);
+}
+.edit-icon {
+  width: 30px;
+  height: 30px;
+  margin-left: 595px;
+  margin-top: -100px;
+  border-radius: 50%;
+  background-color: #494848;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.edit-icon i {
+  color: #ebc010;
+}
+.upper-info {
+  /* width: 270px; */
+  height: 200px;
+  /* display: flex;
+  flex-direction: row; */
+  /* justify-content: flex-end; */
+  box-sizing: border-box;
+  /* text-overflow: clip; */
+}
+.profile-photo {
+  width: 100px;
+  height: 100px;
+  background-color: aliceblue;
+  position: absolute;
+  border-radius: 50%;
+
+  top: 40px;
+  left: 55px;
+}
+.profile-photo .img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 1px solid rgb(208, 202, 202);
+}
+.username-location {
+  height: 300px;
+  padding-left: 161px;
+  padding-right: 90px;
+  padding-top: 40px;
+  font-size: 21px;
+  word-wrap: break-word;
+}
+.map-icon {
+  font-size: 13px;
+  color: #ff3d00;
+}
+.location {
+  font-size: 13px;
+  font-weight: 700;
+  margin-left: 12px;
+}
+
+.job {
+  margin-left: 51px;
+  margin-top: -33px;
+  margin-right: 55px;
+}
+.job-title {
+  font-size: 17px;
+}
+.job-description {
+  font-size: 14px;
+  color: #707070;
+}
+.col-profile-setting {
+  margin-left: 105px;
+}
+.profile-setting {
+  width: 200px;
+  height: 30px;
+  background-color: white;
+  border: 1px solid #ebc010;
+  box-shadow: 4px 4px 8px rgb(208, 202, 202);
+  margin-bottom: 30px;
+}
+.profile-setting p {
+  text-align: center;
+}
+.loctaion {
+  width: 200px;
+  height: 60px;
+  border: 1px solid #ebc010;
+  box-shadow: 4px 4px 8px rgb(208, 202, 202);
+  padding: 7px;
+  background-color: #f8f8f4;
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+.languages {
+  width: 200px;
+  height: 60px;
+  border: 1px solid #ebc010;
+  box-shadow: 4px 4px 8px rgb(208, 202, 202);
+  padding: 7px;
+  background-color: #f8f8f4;
+  font-size: 12px;
+  margin-bottom: 100x;
+}
+.languages h6 {
+  font-size: 13px;
+}
+.loctaion h6 {
+  font-size: 13px;
+}
+.profile-link {
+  margin-top: 30px;
+  width: 200px;
+  font-size: 13px;
+}
+.link {
+  width: 200px;
+  height: 25px;
+  border-radius: 20px;
+  border: 1px solid rgb(208, 202, 202);
+}
+.link p {
+  font-size: 12px;
+  padding-left: 10px;
+}
+.copylink {
+  margin-left: 160px;
+}
+.copylink p {
+  font-size: 10px;
+  color: #494848;
+  cursor: pointer;
+}
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

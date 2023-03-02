@@ -1,0 +1,68 @@
+.subscribeCard-card{
+    text-align: center;
+     box-shadow: 0px 0px 10px 10px rgb(238, 232, 232);
+     padding: 10px; 
+    
+     border-top: 10px solid #494848;
+    width:22%; 
+   margin-left: 50px;
+   margin-top: 50px; 
+}
+/*********************top*******************************/
+.subscribeCard-top{
+    text-align: center;
+    color: #EBC010;
+    font-size: x-large;
+    margin-bottom: 50px;
+    }
+.subscribeCard-top h1 {
+    color:#494848 ;
+    margin-top: 30px;
+}
+.subscribeCard-top h3 {
+    color: #EBC010;
+    margin-top: 30px;
+}
+
+.subscribeCard-top p{
+    color:#494848;
+    font-size: 20px;
+}
+/*****************middel**********************/
+.subscribeCardbtnMiddle{
+    background-color: #EBC010;
+    border-radius: 35px; 
+  
+     padding: 10px;
+     padding-left: 40px;
+     padding-right: 40px;
+    border: none; 
+    margin-top: 60px;
+    color:#494848;
+    margin-bottom: 40px;
+}
+
+.subscribeCard-middleCard{
+    border-top: 10px solid #EBC010;
+    margin-top: 14px;
+   
+
+}
+
+.subscribeCard-imgTitle{
+    margin-top: 20px;
+}
+
+/*********************botom****************************************/
+.subscribeCardbtn{
+     border-radius: 35px; 
+    background-color: rgb(236, 236, 236);
+     padding: 10px;
+     padding-left: 40px;
+     padding-right: 40px;
+    border: none; 
+    margin-top: 60px;
+    color:#494848;
+    margin-bottom: 40px;
+    
+}

@@ -1,0 +1,68 @@
+.close {
+  color: #ebc010;
+}
+.close:hover {
+  color: #ebc010;
+}
+
+/* .modalShapSkill {
+  width: 720px;
+} */
+.modal-content {
+  /* width: 720px; */
+  /* border-radius: 39px 39px 0px 0px; */
+  background-color: #f2f2f2;
+}
+.headerModalSkill {
+  font-size: 20px;
+  font-family: tahoma;
+  color: #ebc010;
+  background-color: #494848;
+  /* width: 720px; */
+  /* border-radius: 35px 35px 0px 35px; */
+}
+
+.bodyModalSkill {
+  /* width: 720px; */
+  background-color: #f2f2f2;
+}
+.cancelModal {
+  /* margin-left:6px !important; */
+  background-color: #f2f2f2;
+  border: 2px solid #ebc010;
+  border-radius: 58px;
+  height: 48px;
+  width: 121px !important;
+  font-size: 20px;
+  font-family: tahoma;
+  color: #ebc010;
+}
+.addModal {
+  /* margin-left:6px !important; */
+  background-color: #494848;
+  border-radius: 58px;
+  height: 48px;
+  width: 121px !important;
+  font-size: 20px;
+  font-family: tahoma;
+  color: #ebc010;
+}
+.para {
+  background-color: #494848;
+  color: #ebc010;
+  border-radius: 33px;
+  padding: 10px;
+  padding-top: 2px;
+  width: fit-content;
+  height: 30px;
+  margin-top: 2px !important;
+  margin-bottom: 2px !important;
+  display: inline-block;
+}
+.bg-skill {
+  background-color: #494848 !important;
+  border: 0px !important;
+}
+.skill-button {
+  background-color: #494848;
+}
